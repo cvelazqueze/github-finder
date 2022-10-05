@@ -26,6 +26,12 @@ function About() {
           Hassib Moddasser
         </a>
       </p>
+      <p className='text-lg text-gray-400'>
+        Find this project in: 
+        <a className='text-white' href='https://github.com/cvelazqueze/github-finder'>
+          Cesar Velazquez Github
+        </a>
+      </p>
     </>
   )
 }
